@@ -1,0 +1,50 @@
+{
+  "site": {
+    "name": "Hachiware Market",
+    "tagline": "Items, currency and bundles for DonutSMP",
+    "discord": "https://discord.gg/yourinvite",
+    "currency": "$"
+  },
+  "offers": [
+    {
+      "id": "cash-100m",
+      "cat": "Currency",
+      "emoji": "💰",
+      "title": "100M Money",
+      "desc": "Delivered in-game within minutes.",
+      "price": 4
+    }
+  ],
+  "methods": [
+    {
+      "id": "card",
+      "name": "Card",
+      "note": "Visa / MC / MIR",
+      "url": ""
+    },
+    {
+      "id": "mir",
+      "name": "MIR",
+      "note": "Russian cards",
+      "url": ""
+    },
+    {
+      "id": "sbp",
+      "name": "SBP",
+      "note": "Fast payments",
+      "url": ""
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "note": "USDT / BTC / ETH",
+      "url": ""
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "note": "",
+      "url": ""
+    }
+  ]
+}
